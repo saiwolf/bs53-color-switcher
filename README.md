@@ -1,1 +1,1 @@
-# bs53-color-switcher
+# Bootstrap 5.3 Color Mode Playground With Vite
